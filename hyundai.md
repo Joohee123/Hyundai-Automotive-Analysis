@@ -30,6 +30,8 @@ The dataset for this analysis was scraped from [hyundainews.com](https://www.hyu
 - **Return to Pre-COVID Norms**: As supply chains stabilize and inventory levels return to pre-pandemic values, sales-to-inventory ratios are normalizing.  
 - **Expect Profitability to Normalize**: Given the return to typical inventory levels, profit margins are expected to return to more sustainable, pre-COVID levels in the coming years.
 
+  ![Market Share Trends](profitability.JPG)
+
 ### Figure: US Auto Industry Inventory to Sales Ratio
 *(Include the figure here, or link to it if hosted online)*
 
