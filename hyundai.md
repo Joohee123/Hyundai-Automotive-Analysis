@@ -43,7 +43,7 @@ The linear regression model was selected due to its simplicity and ease of inter
 - **Standard Deviation**: The standard deviation of historical data is 9,034.39, indicating the potentially large variability in sales numbers.  
 - **Regression Line Slope**: The regression line slope is positive (0.00016392), suggesting a trend of vehicle sales growth over time.
 
-![Market Share Trends](vehicle sales prediction.JPG)
+![Market Share Trends](vehicle%sales%prediction.JPG)
 
 ### Figure: Total Number of Vehicles Sold by Month
 *(Include the figure here, or link to it if hosted online)*
