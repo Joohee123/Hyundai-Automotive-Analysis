@@ -30,9 +30,8 @@ The dataset for this analysis was scraped from [hyundainews.com](https://www.hyu
 - **Return to Pre-COVID Norms**: As supply chains stabilize and inventory levels return to pre-pandemic values, sales-to-inventory ratios are normalizing.  
 - **Expect Profitability to Normalize**: Given the return to typical inventory levels, profit margins are expected to return to more sustainable, pre-COVID levels in the coming years.
 
-  ![Profitability](profitability.JPG)
+  ![Profitability](profitability.JPG)(https://www.statista.com/statistics/712119/inventory-to-sales-ratio-us-domestic-auto-industry/)
 
-### Figure: US Auto Industry Inventory to Sales Ratio
 *(Include the figure here, or link to it if hosted online)*
 
 ## Choice of Linear Regression Model
@@ -44,9 +43,6 @@ The linear regression model was selected due to its simplicity and ease of inter
 - **Regression Line Slope**: The regression line slope is positive (0.00016392), suggesting a trend of vehicle sales growth over time.
 
 ![Vehicle Sales Prediction](vehicle%20sales%20prediction.JPG)
-
-### Figure: Total Number of Vehicles Sold by Month
-*(Include the figure here, or link to it if hosted online)*
 
 ## Individual Vehicle Sales Prediction for May 2025
 - **Elantra**: 12,434 vehicles  
