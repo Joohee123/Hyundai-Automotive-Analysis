@@ -22,6 +22,8 @@ The dataset for this analysis was scraped from [hyundainews.com](https://www.hyu
 - **Consistent Market Share**: Hyundai-Kia Auto Group has maintained a market share above 10% in recent years.  
 - **Fluctuating Trend**: Market share has shown some fluctuations, with minor increases and decreases, but overall, it remains relatively stable in the past few years.
 
+![Market Share Trends](market%20share%20trends.JPG)
+
 ## Profitability
 - **Unusually High Profits Post-COVID**: Automakers experienced higher-than-usual profitability during the COVID-19 pandemic, driven by supply chain disruptions and low vehicle inventory, which resulted in favorable sales-to-inventory ratios.  
 - **Supply Chain Impact**: Limited vehicle supply led to increased demand, allowing automakers to command higher prices and achieve greater margins.  
