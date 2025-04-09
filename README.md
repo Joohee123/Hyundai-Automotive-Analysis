@@ -53,8 +53,8 @@ The linear regression model was selected due to its simplicity and ease of inter
 - **Sonata**: 5,913 vehicles  
 - **Tucson**: 19,385 vehicles  
 - **Venue**: 1,965 vehicles  
-- **Ioniq 5**: 4,185 vehicles  
-- **Ioniq 6**: 906 vehicles
+- **Ioniq 5**: 4,185 vehicles   <span style="color:green"><- Error found. May not be accurate</span>.
+- **Ioniq 6**: 906 vehicles <span style="color:green"><- Error found. May not be accurate</span>.
 
 ### Figure: Total Number of Vehicles Sold by Month
 *(Include the figure here, or link to it if hosted online)*
