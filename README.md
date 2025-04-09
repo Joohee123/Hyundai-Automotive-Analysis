@@ -22,7 +22,7 @@ The dataset for this analysis was scraped from [hyundainews.com](https://www.hyu
 - **Consistent Market Share**: Hyundai-Kia Auto Group has maintained a market share above 10% in recent years.  
 - **Fluctuating Trend**: Market share has shown some fluctuations, with minor increases and decreases, but overall, it remains relatively stable in the past few years.
 
-![Market Share Trends](market%20share%20trends.JPG)
+![Market Share Trends](images/market%20share%20trends.JPG)
 
 ## Profitability
 - **Unusually High Profits Post-COVID**: Automakers experienced higher-than-usual profitability during the COVID-19 pandemic, driven by supply chain disruptions and low vehicle inventory, which resulted in favorable sales-to-inventory ratios.  
@@ -30,7 +30,7 @@ The dataset for this analysis was scraped from [hyundainews.com](https://www.hyu
 - **Return to Pre-COVID Norms**: As supply chains stabilize and inventory levels return to pre-pandemic values, sales-to-inventory ratios are normalizing.  
 - **Expect Profitability to Normalize**: Given the return to typical inventory levels, profit margins are expected to return to more sustainable, pre-COVID levels in the coming years.
 
-  ![Profitability](profitability.JPG)(https://www.statista.com/statistics/712119/inventory-to-sales-ratio-us-domestic-auto-industry/)
+  ![Profitability](images/profitability.JPG)(https://www.statista.com/statistics/712119/inventory-to-sales-ratio-us-domestic-auto-industry/)
 
 *(Include the figure here, or link to it if hosted online)*
 
@@ -42,7 +42,7 @@ The linear regression model was selected due to its simplicity and ease of inter
 - **Standard Deviation**: The standard deviation of historical data is 9,034.39, indicating the potentially large variability in sales numbers.  
 - **Regression Line Slope**: The regression line slope is positive (0.00016392), suggesting a trend of vehicle sales growth over time.
 
-![Vehicle Sales Prediction](vehicle%20sales%20prediction.JPG)
+![Vehicle Sales Prediction](images/vehicle%20sales%20prediction.JPG)
 
 ## Individual Vehicle Sales Prediction for May 2025
 - **Elantra**: 12,434 vehicles  
@@ -104,7 +104,7 @@ reg = LinearRegression().fit(x_np, y)
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
-```
+
 # Step 1: Set a User-Agent to mimic a browser request
 headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
