@@ -22,17 +22,15 @@ The dataset for this analysis was scraped from [hyundainews.com](https://www.hyu
 - **Consistent Market Share**: Hyundai-Kia Auto Group has maintained a market share above 10% in recent years.  
 - **Fluctuating Trend**: Market share has shown some fluctuations, with minor increases and decreases, but overall, it remains relatively stable in the past few years.
 
-![Market Share Trends](images/market%20share%20trends.JPG)
+![Market Share Trends](images/Market%20Share%20Trends.png)
 
 ## Profitability
+  ![Profitability](images/Profitability.png)(https://www.statista.com/statistics/712119/inventory-to-sales-ratio-us-domestic-auto-industry/)
+*(Include the figure here, or link to it if hosted online)*
 - **Unusually High Profits Post-COVID**: Automakers experienced higher-than-usual profitability during the COVID-19 pandemic, driven by supply chain disruptions and low vehicle inventory, which resulted in favorable sales-to-inventory ratios.  
 - **Supply Chain Impact**: Limited vehicle supply led to increased demand, allowing automakers to command higher prices and achieve greater margins.  
 - **Return to Pre-COVID Norms**: As supply chains stabilize and inventory levels return to pre-pandemic values, sales-to-inventory ratios are normalizing.  
 - **Expect Profitability to Normalize**: Given the return to typical inventory levels, profit margins are expected to return to more sustainable, pre-COVID levels in the coming years.
-
-  ![Profitability](images/profitability.JPG)(https://www.statista.com/statistics/712119/inventory-to-sales-ratio-us-domestic-auto-industry/)
-
-*(Include the figure here, or link to it if hosted online)*
 
 ## Choice of Linear Regression Model
 The linear regression model was selected due to its simplicity and ease of interpretation. While more complex models could potentially offer higher accuracy, the primary focus of this presentation is on demonstrating my ability to implement and showcase a fundamental model, rather than maximizing prediction accuracy or exploring more advanced techniques.
@@ -42,17 +40,27 @@ The linear regression model was selected due to its simplicity and ease of inter
 - **Standard Deviation**: The standard deviation of historical data is 9,034.39, indicating the potentially large variability in sales numbers.  
 - **Regression Line Slope**: The regression line slope is positive (0.00016392), suggesting a trend of vehicle sales growth over time.
 
-![Vehicle Sales Prediction](images/vehicle%20sales%20prediction.JPG)
+![Total Sales by Month](images/Total%20Sales%20by%20Month.png)
+
 
 ## Individual Vehicle Sales Prediction for May 2025
+![Total Vehicle Sales by Month](images/Total%20Vehicle%20Sales%20by%20Month.png)
 - **Elantra**: 12,434 vehicles  
-- **Kona**: 6,997 vehicles  
+![Indiviual Vehicle Sales Prediction](images/Elantra.png)
+- **Kona**: 6,997 vehicles 
+![Indiviual Vehicle Sales Prediction](images/Kona.png) 
 - **Palisade**: 9,755 vehicles  
+![Indiviual Vehicle Sales Prediction](images/Palisade.png)
 - **Santa Cruz**: 2,438 vehicles  
+![Indiviual Vehicle Sales Prediction](images/Santa%20Cruz.png)
 - **Santa Fe**: 10,903 vehicles  
+![Indiviual Vehicle Sales Prediction](images/Santa%20Fe.png)
 - **Sonata**: 5,913 vehicles  
+![Indiviual Vehicle Sales Prediction](images/Sonata.png)
 - **Tucson**: 19,385 vehicles  
+![Indiviual Vehicle Sales Prediction](images/Tucson.png)
 - **Venue**: 1,965 vehicles  
+![Indiviual Vehicle Sales Prediction](images/Venue.png)
 - **Ioniq 5**: 4,185 vehicles   <span style="color:green"><- Error found. May not be accurate</span>.
 - **Ioniq 6**: 906 vehicles <span style="color:green"><- Error found. May not be accurate</span>.
 
