@@ -48,6 +48,7 @@ The linear regression model was selected due to its simplicity and ease of inter
 - **Elantra**: 12,434 vehicles  
 ![Indiviual Vehicle Sales Prediction](images/Elantra.png)
 - **Kona**: 6,997 vehicles 
+
 ![Indiviual Vehicle Sales Prediction](images/Kona.png) 
 - **Palisade**: 9,755 vehicles  
 ![Indiviual Vehicle Sales Prediction](images/Palisade.png)
